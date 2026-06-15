@@ -28,23 +28,9 @@ A modern bakery website developed as a full-stack web application using HTML, CS
 ### Database
 - MySQL
 
-## Project Structure
 
-BakerBest/
-│
-├── css/
-├── js/
-├── images/
-├── php/
-├── database/
-├── index.php
-└── README.md
-
-## Author
-
-**Jasmina Thevasuthan**
-
-
+Author
+Jasmina Thevasuthan
 
 GitHub: https://github.com/Jasmina-Thevasuthan
-LinkedIn: https://www.linkedin.com/in/Jasmina-Thevasuthan
+LinkedIn: https://www.linkedin.com/in/jasminathevasuthan
